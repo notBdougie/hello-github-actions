@@ -1,0 +1,4 @@
+name: My Hello World Action
+author: me
+description: 'Action that does some cool stuff!'
+runs: echo "Hello"
