@@ -3,4 +3,4 @@ author: me
 description: 'Action that does some cool stuff!'
 runs:
   using: 'docker'
-  image: 'docker://debian:9.5-slim'
+  image: 'Dockerfile'
